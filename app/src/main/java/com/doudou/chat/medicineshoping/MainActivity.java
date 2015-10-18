@@ -22,6 +22,7 @@ public class MainActivity extends Activity {
         content.setText("androidStudio测试");
 
 
+       LogUtils.i("huhu");
 
     }
 
